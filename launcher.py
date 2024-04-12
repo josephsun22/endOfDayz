@@ -4,8 +4,7 @@ the hospital whilst evading zombies.
 """
 
 # Replace these <strings> with your name, student number and email address.
-__author__ = "Zhongyu Sun, 46634261"
-__email__ = "zhongyu.sun@uqconnect.edu.au"
+__author__ = "Joseph Sun"
 
 
 import tkinter as tk

@@ -15,6 +15,13 @@ By keyboard
 - Collect inventories for survival.
 - Record your score and compare with other players!
 
+### User Interface
+- Basic text based interface in task2
+- Graphical interface in task3.
+- 
+
 ### How to run
 - Install all required python packages.
 - Run main function in launcher.py
+
+This is a project which is completed in a university coursework.

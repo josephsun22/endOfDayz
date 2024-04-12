@@ -14,3 +14,7 @@ By keyboard
 ### 🎨 Features
 - Collect inventories for survival.
 - Record your score and compare with other players!
+
+### How to run
+- Install all required python packages.
+- Run main function in launcher.py
